@@ -63,14 +63,6 @@ Me muevo cómodo entre el frontend, el backend y la infraestructura, trabajando 
 - 🔐 Buenas prácticas de seguridad: validación estricta, control de acceso por roles y sin atajos peligrosos.
 - 🤝 Código claro por encima del código "ingenioso".
 
----
-
-## 📊 Estadísticas de GitHub
-
-<!-- Reemplaza TU_USUARIO por tu usuario real de GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AMendoza180890&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMendoza180890&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=AMendoza180890&theme=tokyonight&hide_border=true)
 
 ---
 
