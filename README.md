@@ -1,8 +1,6 @@
 # Hola, soy Allan
 ### Desarrollador full-stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14A1F0&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Offline-first+%26+Multi-tenant;Automatizaci%C3%B3n+%26+Cloud;Desarrollo+asistido+por+IA)](https://git.io/typing-svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AMendoza180890&style=flat-square&color=14a1f0)
 ![GitHub Followers](https://img.shields.io/github/followers/AMendoza180890?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/AMendoza180890?style=social)
