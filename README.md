@@ -63,9 +63,9 @@ Me muevo cómodo entre el frontend, el backend y la infraestructura, trabajando 
 Siempre estoy abierto a colaborar en proyectos interesantes o platicar sobre desarrollo, arquitectura y automatización.
 
 <!-- Reemplaza los enlaces con los tuyos reales -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/amendoza1890)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AMendoza1890-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/amendoza1890)
 [![Email](https://img.shields.io/badge/Email-cont%C3%A1ctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:allanmaleman@gmail.com)
-[![Web](https://img.shields.io/badge/Portafolio-tu--sitio.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://allanmendoza.tech/)
+[![Web](https://img.shields.io/badge/Portafolio-allanmendoza.tech-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://allanmendoza.tech/)
 
 ---
 
