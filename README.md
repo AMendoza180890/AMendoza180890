@@ -1,11 +1,6 @@
-# Hola, soy Allan 👋
+# Hola, soy Allan
 ### Desarrollador full-stack
 
-<!--
-  Sugerencia de banner sin copyright: crea uno gratis en
-  https://shields.io o genera un header simple en https://readme-typing-svg.demolab.com
-  Ejemplo de header animado (reemplaza el texto si quieres):
--->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=14A1F0&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Offline-first+%26+Multi-tenant;Automatizaci%C3%B3n+%26+Cloud;Desarrollo+asistido+por+IA)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AMendoza180890&style=flat-square&color=14a1f0)
@@ -62,7 +57,6 @@ Me muevo cómodo entre el frontend, el backend y la infraestructura, trabajando 
 - ⚙️ Automatizaciones y backends que integran servicios y quitan trabajo manual.
 - 🔐 Buenas prácticas de seguridad: validación estricta, control de acceso por roles y sin atajos peligrosos.
 - 🤝 Código claro por encima del código "ingenioso".
-
 
 ---
 
