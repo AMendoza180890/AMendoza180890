@@ -7,9 +7,11 @@
 
 ---
 
-Soy Fesarrollador full-stack. Construyo cosas que resuelven problemas reales: plataformas multi-tenant, apps móviles offline-first, integraciones de backend y automatizaciones que le quitan trabajo repetitivo a la gente.
+Soy desarrollador full-stack con mas de 8 años de experiencia. 
 
-Me muevo cómodo entre el frontend, el backend y la infraestructura, trabajando tanto en productos para clientes como en herramientas internas. Me importa el código claro, las decisiones bien documentadas y la comunicación concisa.
+He colaborado con múltiples organizaciones en Nicaragua y en distintas partes del mundo, ayudándolas a resolver problemas reales mediante el desarrollo de soluciones tecnológicas. Mi experiencia incluye la creación de aplicaciones sobre arquitecturas multi-tenant, aplicaciones móviles con enfoque offline-first, integraciones de backend y procesos de automatización.
+
+Me desenvuelvo con facilidad entre el frontend, el backend y la infraestructura, manteniendo siempre un enfoque integral en cada proyecto. Valoro el código claro y mantenible, las decisiones técnicas bien documentadas y una comunicación directa, precisa y efectiva.
 
 > 🌎 Basado en Nicaragua, trabajando con clientes de distintas partes del mundo.
 
